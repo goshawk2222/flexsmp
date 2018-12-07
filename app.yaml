@@ -2,5 +2,5 @@ runtime: php55
 api_version: 1
 threadsafe: true
 handlers:
-- url: /.*
+- url: /web/.*
   script: index.php
